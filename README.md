@@ -15,7 +15,7 @@ The Health and Wellness Project is a comprehensive application designed to promo
 https://be-1fit.netlify.app/
 
 
-https://baidu-bandits-072-git-main-sanjukumari-techs-projects.vercel.app/
+be-fit-application-git-main-sanjukumari-techs-projects.vercel.app
 
 
 ## Features
