@@ -109,7 +109,7 @@ style="box-shadow: 0px 6px 30px rgba(0, 0, 0, 0.8);">
 style="box-shadow: 0px 6px 30px rgba(0, 0, 0, 0.8);">
 
 
-<img src="./Baidu-Bandits/src/assets/activity-tracker" alt="Mobile View" width="500" 
+<img src="./Baidu-Bandits/src/assets/activity-tracker.png" alt="Mobile View" width="500" 
 style="box-shadow: 0px 6px 30px rgba(0, 0, 0, 0.8);">
 
 <img src="./Baidu-Bandits/src/assets/doctors-appointment.png" alt="Mobile View" width="500" 
